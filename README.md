@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaqib</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently working with **MERN Stack.**
 
 - 📝 I regularly write articles on [https://aaqibjavaid.hashnode.dev/](https://aaqibjavaid.hashnode.dev/)
 
